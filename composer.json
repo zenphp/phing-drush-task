@@ -1,0 +1,8 @@
+{
+	"name" : "zenphp/phing-drush-task",
+	"description" : "Temporary hosting for phing-drush-task",
+	"require" : {
+		"php": ">=5.3.0",
+		"drush/drush" : ">=6.0"
+	}
+}
